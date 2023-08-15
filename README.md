@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Aura Analytics Dashboard](https://aura.defilytica.com)
 
-- 🕥 Past Projects [TalesTime (acquired)](https://talestime.io)
+- 🕥 Past Projects [TalesTime (acquired)](https://talestime.io), [AMM Fork](https://swap.dltservice.ch/), [GoodLunch](https://goodlunch.ch)
 
 - 👨‍💻 All of my projects are available at [https://silasstulz.com](https://silasstulz.com)
 
