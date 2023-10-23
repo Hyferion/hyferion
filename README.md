@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/hyferion" target="blank"><img src="https://img.shields.io/twitter/follow/hyferion?logo=twitter&style=for-the-badge" alt="hyferion" /></a> </p>
 
-- 🔭 I’m currently working on [Aura Analytics Dashboard](https://aura.defilytica.com)
+- 🔭 I’m currently working on [ChatKlar](https://chatklar.com)
 
-- 🕥 Past Projects [TalesTime (acquired)](https://talestime.io), [AMM Fork](https://swap.dltservice.ch/), [GoodLunch](https://goodlunch.ch)
+- 🕥 Past Projects [Aura Analytics Dashboard](https://aura.defilytica.com) [TalesTime (acquired)](https://talestime.io), [AMM Fork](https://swap.dltservice.ch/), [GoodLunch](https://goodlunch.ch)
 
 - 👨‍💻 All of my projects are available at [https://silasstulz.com](https://silasstulz.com)
 
