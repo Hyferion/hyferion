@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Silas</h1>
-<h3 align="center">Experienced Full Stacke Developer from Switzerland</h3>
+<h3 align="center">Experienced Full Stack Developer from Switzerland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyferion&label=Profile%20views&color=0e75b6&style=flat" alt="hyferion" /> </p>
 
