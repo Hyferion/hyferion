@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/hyferion" target="blank"><img src="https://img.shields.io/twitter/follow/hyferion?logo=twitter&style=for-the-badge" alt="hyferion" /></a> </p>
 
-- 🔭 I’m currently working on [ChatKlar](https://chatklar.com)
+- 🔭 I’m currently working on [HLiquity](https://github.com/SwisscoastAG/HLiquity) and [ChatKlar](https://chatklar.com)
 
 - 🕥 Past Projects [Aura Analytics Dashboard](https://aura.defilytica.com) [TalesTime (acquired)](https://talestime.io), [AMM Fork](https://swap.dltservice.ch/), [GoodLunch](https://goodlunch.ch)
 
 - 👨‍💻 All of my projects are available at [https://silasstulz.com](https://silasstulz.com)
-
-- 👯 I’m looking to collaborate on **DeFi, Blockchain infrastructure, Smart Contracts**
 
 - 📫 How to reach me **silas.stulz@gmail.com**
 
