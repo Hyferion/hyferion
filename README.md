@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Athlog](https://athlog.app) 
 
-- 🕥 Past Projects [HLiquity](https://github.com/SwisscoastAG/HLiquity) [Aura Analytics Dashboard](https://aura.defilytica.com) [TalesTime (acquired)](https://talestime.io), [AMM Fork](https://swap.dltservice.ch/), [GoodLunch](https://goodlunch.ch)
+- 🕥 Past Projects [HLiquity](https://github.com/SwisscoastAG/HLiquity) [TalesTime (acquired)](https://talestime.io), [AMM Fork](https://swap.dltservice.ch/), [GoodLunch](https://goodlunch.ch)
 
 - 👨‍💻 All of my projects are available at [https://silasstulz.com](https://silasstulz.com)
 
